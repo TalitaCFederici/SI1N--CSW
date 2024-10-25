@@ -1,0 +1,19 @@
+.h1primario{
+display: flex;
+color: blue;
+justify-content: center;
+}
+
+.cap{
+    text-align: right;
+color: cadetblue;
+
+}
+.secundario{
+color: cornflowerblue;
+}
+
+.h1secundario{
+    font-size: x-large;
+    color: darkolivegreen;
+    }
